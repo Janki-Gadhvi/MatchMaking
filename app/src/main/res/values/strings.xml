@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MatchMakingDemo</string>
+    <string name="rejected">You have rejected this profile</string>
+    <string name="selected">You marked interested</string>
+    <string name="click_here_to_see_actioned_profiles">Click here to see actioned profiles</string>
+    <string name="no_data_found">No data found</string>
+</resources>
